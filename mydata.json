@@ -1,0 +1,14 @@
+{
+  "ids": {
+    "book": 2,
+    "review": 2
+  },
+  "models": {
+    "book": {
+      "1": "{\"name\":\"Harry Potter\",\"author\":\"J.K.Rawling\",\"price\":10,\"id\":1}"
+    },
+    "review": {
+      "1": "{\"reviewer\":\"Nina\",\"rate\":5,\"id\":1,\"bookId\":1}"
+    }
+  }
+}
