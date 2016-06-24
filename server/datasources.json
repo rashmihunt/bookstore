@@ -1,0 +1,8 @@
+{
+  "mem_db": {
+    "name": "mem_db",
+    "localStorage": "",
+    "file": "mydata.json",
+    "connector": "memory"
+  }
+}
