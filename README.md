@@ -6,13 +6,11 @@ Bookstore is a simple application which show-cases use of loopback. Application 
 
 ## Install and run the application
 
-To run this application 
-
-Clone this repository.
-
-$npm install
+To run this application, flone this repository on to your local computer.
 
 $cd bookstore
+
+$npm install
 
 $node .
 
